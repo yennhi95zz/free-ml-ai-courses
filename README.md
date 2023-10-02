@@ -12,7 +12,7 @@
 
 This repository is a curated list of free online courses and resources on machine learning and artificial intelligence offered by leading organizations, universities, and platforms. Whether you're a beginner or an experienced practitioner, these courses provide a valuable opportunity to enhance your knowledge and skills in the field of AI.
 
-![image](https://github.com/yennhi95zz/free-ml-ai-courses/assets/88694623/062956d4-0dd6-453f-90d7-404e5ed55c64)
+![image](https://github.com/yennhi95zz/free-ml-ai-courses/assets/88694623/772a2de2-43c6-4e06-9e71-f515a1106e76)
 
 
 ## Table of Contents
