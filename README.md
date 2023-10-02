@@ -64,3 +64,8 @@ Contributions to this repository are highly encouraged! If you know of any addit
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
+
+-----------
+I also share additional insights on the Machine Learning journey through [articles](https://medium.com/@yennhi95zz) on Medium. Feel free to check them out!
+
+Get UNLIMITED access to every story on Medium with just $1/week ▶ [HERE](https://medium.com/@yennhi95zz/membership)
